@@ -1,0 +1,3 @@
+import { pageLoad };
+
+alert("Hi");
