@@ -1,3 +1,0 @@
-import { pageLoad };
-
-alert("Hi");
